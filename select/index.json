@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Cybele's Reverie",
+  "base_artist": "Stereolab",
+  "createdAt": "2026-02-08T02:02:25.088145Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cybele's Reverie",
+      "artist": "Stereolab",
+      "has_synced": true,
+      "path": "select/01_Cybele's_Reverie_Stereolab.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cybele’s Reverie",
+      "artist": "Stereolab",
+      "has_synced": true,
+      "path": "select/02_Cybele’s_Reverie_Stereolab.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cybele's Reverie",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/03_Cybele's_Reverie_Stereolab.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "02 - Cybele's Reverie",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/04_02_-_Cybele's_Reverie_Stereolab.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cybele’s Reverie",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/05_Cybele’s_Reverie_Stereolab.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cybele's Reverie",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/pl_01_Cybele's_Reverie_Stereolab.txt"
+    }
+  ]
+}
