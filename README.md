@@ -1,0 +1,52 @@
+# Stereolab – Cybele's Reverie
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:15.23] Matières sensuelles et sans suites
+[00:22.65] Matières sensuelles et sans suites
+[00:29.93] L'enfance est plus sympathique
+[00:37.33] L'enfance apporte le magique
+[00:51.33] 
+[00:44.65] Que faire quand on a tout fait
+[00:47.01] Tout lu, tout bu, tout mangé
+[00:49.30] Tout donné en vrac et en détail
+[00:52.32] Quand on a crié sur tous les toits
+[00:55.53] Pleuré et ris dans les villes et en campagne
+[01:17.53] 
+[00:59.44] L'enfance est plus authentique
+[01:06.80] Le jardin au haut portique
+[01:19.80] 
+[01:14.09] Que faire quand on a tout fait
+[01:16.47] Tout lu, tout bu, tout mangé
+[01:18.75] Tout donné en vrac et en détail
+[01:21.80] Quand on a crié sur tous les toits
+[01:24.94] Pleuré et ris dans les villes et en campagne
+[01:46.94] 
+[01:45.15] Les pierres, les arbres, les murs racontent
+[01:53.26] Les pierres, les arbres, les murs racontent
+[02:01.19] Les pierres, les arbres, les murs racontent
+[02:08.89] Les pierres, les arbres, les murs racontent
+[02:16.60] Les pierres, les arbres, les murs racontent
+[02:24.39] Les pierres, les arbres, les murs racontent
+[02:31.97] Les pierres, les arbres, les murs racontent
+[02:39.64] Les pierres, les arbres, les murs
+[02:56.14] 
+[03:01.69] L'enfance est plus authentique
+[03:09.10] Le jardin au haut portique
+[03:22.10] 
+[03:16.44] Que faire quand on a tout fait
+[03:18.70] Tout lu, tout bu, tout mangé
+[03:21.06] Tout donné en vrac et en détail
+[03:23.99] Quand on a crié sur tous les toits
+[03:27.17] Pleuré et ris dans les villes et en campagne
+[03:49.17] 
+[03:39.50] Les pierres, les arbres, les murs racontent
+[03:47.35] Les pierres, les arbres, les murs racontent
+[03:55.11] Les pierres, les arbres, les murs racontent
+[04:02.82] Les pierres, les arbres, les murs racontent
+[04:10.59] Les pierres, les arbres, les murs racontent
+[04:18.02] Les pierres, les arbres, les murs racontent
+[04:25.93] Les pierres, les arbres, les murs racontent
+[04:31.80] Et le silence
+```
